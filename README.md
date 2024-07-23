@@ -1,1 +1,0 @@
-# Automatic-License-Plate-Recognition-MSc-Project
